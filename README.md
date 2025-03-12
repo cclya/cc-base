@@ -1,2 +1,2 @@
 # cc-base
-my previous works
+The repository for my previous work is set, where I'll continually upload my previous modeling work and code.
