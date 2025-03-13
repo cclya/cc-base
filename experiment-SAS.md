@@ -1,4 +1,4 @@
-# Exp. of Time series 
+# Exp. of Time Series 
 The whole course of Time Series Analysis (almost) I've done in basic data analysis is collected here, click and visit: 😃👇  
 
 ## exp1. Basic TSA-I
